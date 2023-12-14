@@ -37,6 +37,7 @@ notes.post('/', (req, res) => {
     }
 });
 
+// Delete Route for deleting notes
 notes.delete('/:id', (req, res) => {
     readFromFile('./db/db.json').then((data) => {
         const selectedTaskId = req.params.id;
@@ -52,5 +53,6 @@ notes.delete('/:id', (req, res) => {
 
     });
 });
+
 module.exports = notes;
 
