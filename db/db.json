@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Team Meeting",
+        "text": "Prepare the report",
+        "id": "a2e0a8a5-e79a-4581-9749-eadd6276b5b1"
+    },
+    {
+        "title": "Office Supplies",
+        "text": "- papers, \n- staples, \n- binders, \n- pencils",
+        "id": "4208a381-be9b-457c-969d-7132addce9e1"
+    },
+    {
+        "title": "Call Customers ",
+        "text": "Reschedule calls",
+        "id": "22ad1030-83ba-4999-85ce-4cbc9b815be6"
+    },
+    {
+        "title": "Grocery",
+        "text": "Coffee, cookies, snack",
+        "id": "f11a06ce-9b77-4dc2-ad3c-4548f9a19bfb"
+    }
+]
