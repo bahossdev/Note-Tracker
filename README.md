@@ -1,5 +1,5 @@
 # Note Tracker
-📝 An application that helps user organize and store their tasks and thoughts.
+📝 An application that helps users organize and store their tasks and thoughts.
 
 ## Description
 This web application streamlines note-taking for small business owners. Leveraging Express.js, the app allows users to effortlessly manage their notes, offering features such as creating new notes, saving them with a single click, viewing existing notes, and deleting notes when needed.
@@ -77,3 +77,5 @@ https://github.com/bahossdev/Note-Tracker
 If you have any questions or need further assistance, feel free to reach out @[bahoss.dev@gmail.com](mailto:bahoss.dev@gmail.com)
 
 ## Screenshots
+![screenshot1](https://github.com/bahossdev/Note-Tracker/assets/148646212/c05962e8-5753-4601-b141-b0904f23df32)
+![screenshot2](https://github.com/bahossdev/Note-Tracker/assets/148646212/18ccd4d4-9b86-4c84-90fb-55f278287bc8)
